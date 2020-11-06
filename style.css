@@ -1,0 +1,43 @@
+
+body {
+    position: relative;
+}
+
+.menu1 {
+    background-color: #e5112c;
+    border-color: crimson;
+    color: white;
+    font-size: xx-large;
+
+}
+
+.menu2 {
+    width: 80px;
+    height: 1000px;
+    background-color: #e5112c;
+    margin: 3px;
+}
+
+.logo {
+    text-align: left;
+    padding: 3px;
+    display: inline-block;
+
+}
+
+.icon {
+    text-align: right;
+    display: inline-block;
+    position: absolute;
+    top: 15px;
+    right: 15px;
+}
+
+#connection {
+    font-size: small;
+}
+
+#logo {
+    border: solid 1px black;
+    margin: 1px;
+}
